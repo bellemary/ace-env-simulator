@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACE 环境检测模拟器</string>
+    <string name="version">v2.6</string>
+    <string name="about_changelog">v2.6 更新亮点\n\n1. 高级模式结果自动保存至本地\n  · 完成全流程后自动写入 /storage/emulated/0/ACE解密结果/\n  · 文件名 ACE_Result_YYYY-MM-DD_HH-mm-ss.txt\n  · 完整保留内存扫描特征点、解密明文、智能解释与综合结论\n  · Android 11+ 自动引导「所有文件访问」授权\n\n2. 基础模式全面模拟游戏真实 ACE 检测\n  · 逐项还原 ACE SDK 对客户端环境的探测步骤（不读目标进程）\n  · 每项显示检测项目名称、检测详情、模拟结果（通过/可疑/高风险）与最终影响\n  · 100% 还原线上检测判定逻辑\n\n3. 全新极简风图标设计\n  · 基于自适应图标规范，前景背景分层\n  · 几何化「A」字形 + 科技蓝点缀\n  · 适配 Android 8.0+ 自适应图标与历史版本回退</string>
+</resources>

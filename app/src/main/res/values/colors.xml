@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFFFFF</color>
+    <color name="surface">#FBFBFA</color>
+    <color name="surface_raised">#F7F6F3</color>
+    <color name="detail_surface">#FBFBFA</color>
+    <color name="stroke">#EAEAEA</color>
+    <color name="stroke_strong">#D4D4D2</color>
+    <color name="primary">#111111</color>
+    <color name="primary_muted">#333333</color>
+    <color name="success">#346538</color>
+    <color name="success_bg">#EDF3EC</color>
+    <color name="warning">#956400</color>
+    <color name="warning_bg">#FBF3DB</color>
+    <color name="danger">#9F2F2D</color>
+    <color name="danger_bg">#FDEBEC</color>
+    <color name="info">#1F6C9F</color>
+    <color name="info_bg">#E1F3FE</color>
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#787774</color>
+    <color name="text_tertiary">#A8A7A4</color>
+</resources>

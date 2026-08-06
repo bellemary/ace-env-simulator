@@ -1,0 +1,23 @@
+# 构建产物
+/build/
+/app/build/
+/.gradle/
+/local.properties
+
+# 本地工具脚本（一次性使用，不需版本控制）
+/tools/
+
+# IDE 配置
+/.idea/
+*.iml
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 本地证书/密钥
+*.keystore
+*.jks
